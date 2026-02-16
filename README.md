@@ -3,48 +3,76 @@
 
 ## Hi 👋 I'm Muneera Saif Al Naabi
 
-💻 **Full Stack Developer | Software Applications Development Graduate**
+💻 **Full Stack Developer | Software Applications Development**
 
-I’m a passionate software developer with strong hands-on experience in **web, backend, and mobile application development**.  
+I’m a passionate software developer with hands-on experience in **web, backend, and mobile application development**.  
 I enjoy building real-world solutions using clean code, scalable architectures, and modern technologies.
-
-I continuously improve my skills through **projects, competitions, and research**, and I’m highly motivated to contribute to impactful tech-driven solutions 🚀
 
 ---
 
 ## 👩‍💻 Tech Stack & Skills
 
 ### 🔹 Programming Languages
-- JavaScript  
-- Python  
-- Dart  
-- Java  
-- PHP  
-- C#  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+</p>
+
+---
 
 ### 🔹 Backend & APIs
-- FastAPI  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+</p>
+
 - RESTful API Development  
-- Object-Oriented Programming (OOP)  
 - Authentication & Authorization  
+- Object-Oriented Programming (OOP)  
 - Database Design  
 
-### 🔹 Mobile & Frontend Development
-- Flutter (Cross-platform Mobile Applications)  
+---
+
+### 🔹 Mobile Development
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
+</p>
+
+- Cross-platform Mobile Applications  
 - UI/UX Implementation  
-- Responsive Design Concepts  
+
+---
 
 ### 🔹 Databases & Cloud
-- MySQL  
-- SQLite  
-- Firebase  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
+</p>
+
+---
 
 ### 🔹 AI & Emerging Technologies
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+</p>
+
 - AI & Computer Vision  
 - Generative AI Tools  
 
+---
+
 ### 🔹 Tools & Best Practices
-- Git & GitHub  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</p>
+
 - Clean Code Principles  
 - MVC / Modular Architecture  
 - Problem Solving & Debugging  
@@ -56,7 +84,6 @@ I continuously improve my skills through **projects, competitions, and research*
 
 - **IEEE Research Publication (2024)**  
   **Title:** *Enhancing Government–Citizen Communication via Digital Technologies*  
-  **Description:** Contributed to a research paper focusing on improving communication between government institutions and citizens in Oman through digital technologies.  
   **Publisher:** IEEE Xplore  
   📄 https://ieeexplore.ieee.org/document/10867385  
 
@@ -65,31 +92,24 @@ I continuously improve my skills through **projects, competitions, and research*
 ## 🏆 Achievements & Competitions
 
 - 🥈 **2nd Place – SightSavvy Project (2024)**  
-  Smart Assistant for the Visually Impaired using Flutter & AI  
-  University of Technology and Applied Sciences – Ibri  
+  Smart Assistant for the Visually Impaired (Flutter & AI)
 
 - 🧠 **OCPC Programming Competition (2025)**  
-  Solved competitive programming problems using Python  
+  Competitive programming using Python  
 
-- 🌐 **Oman IoT & Artificial Intelligence Challenge (2024)**  
-  Designed and developed innovative IoT & AI solutions for real-world problems  
+- 🌐 **Oman IoT & AI Challenge (2024)**  
+  Innovative IoT & AI solutions  
 
 - 🥉 **TechMarathon (2024)**  
-  Won 3rd Place by designing and coding a responsive website  
-
-- 💻 **7th iTech-Marathon (2023)**  
-  Applied Java programming and teamwork skills in a competitive environment  
-
-- 🧩 **MCBS-ICPC Programming Contest (2023)**  
-  Solved algorithmic problems using Java collaboratively  
+  Responsive website development  
 
 ---
 
 ## 🌱 Currently Focused On
-- Building **real-world full stack applications**
-- Enhancing **backend performance and API design**
-- Developing **Flutter-based mobile applications**
-- Preparing for **software development job opportunities**
+- Full Stack application development  
+- Backend APIs with FastAPI  
+- Flutter mobile applications  
+- Job readiness as a Software Developer  
 
 ---
 
@@ -99,5 +119,4 @@ I continuously improve my skills through **projects, competitions, and research*
 
 ---
 
-⭐️ Feel free to explore my repositories and see what I’m currently working on!- ⚡ Fun fact: ...
--->
+⭐️ Thanks for visiting my profile!
