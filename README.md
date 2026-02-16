@@ -1,122 +1,44 @@
-![License](https://img.shields.io/github/license/muneerasaifalnaabi-prog/muneerasaifalnaabi-prog?style=flat)
 ![Profile Views](https://komarev.com/ghpvc/?username=muneerasaifalnaabi-prog&style=flat)
 
-## Hi 👋 I'm Muneera Saif Al Naabi
-
-💻 **Full Stack Developer | Software Applications Development**
-
-I’m a passionate software developer with hands-on experience in **web, backend, and mobile application development**.  
-I enjoy building real-world solutions using clean code, scalable architectures, and modern technologies.
+## 👋 Muneera Saif Al Naabi
+**Full Stack Developer | Software Applications Development Graduate**
 
 ---
 
-## 👩‍💻 Tech Stack & Skills
+## 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)
+![Dart](https://img.shields.io/badge/Dart-black?style=flat&logo=dart)
+![Java](https://img.shields.io/badge/Java-black?style=flat&logo=java)
+![PHP](https://img.shields.io/badge/PHP-black?style=flat&logo=php)
+![C#](https://img.shields.io/badge/C%23-black?style=flat&logo=csharp)
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat&logo=fastapi)
+![Flutter](https://img.shields.io/badge/Flutter-black?style=flat&logo=flutter)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-black?style=flat&logo=sqlite)
+![Firebase](https://img.shields.io/badge/Firebase-black?style=flat&logo=firebase)
+![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
 
-### 🔹 Programming Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+---
+
+## 📚 Research
+**IEEE Publication (2024)**  
+*Enhancing Government–Citizen Communication via Digital Technologies*  
+🔗 https://ieeexplore.ieee.org/document/10867385
+
+---
+
+## 🏆 Highlights
+- 🥈 2nd Place – SightSavvy (Flutter & AI)
+- 🧠 OCPC Programming Competition
+- 🌐 Oman IoT & AI Challenge
+
+---
+
+## 📫 Connect
+<p align="center">
+<a href="https://github.com/muneerasaifalnaabi-prog"><img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github"/></a>
+<a href="https://linkedin.com/in/muneera-al-naabi-Ob4aaa260"><img src="https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin"/></a>
+<a href="mailto:muneerasaifalnaabi@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=flat&logo=gmail"/></a>
 </p>
-
----
-
-### 🔹 Backend & APIs
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-</p>
-
-- RESTful API Development  
-- Authentication & Authorization  
-- Object-Oriented Programming (OOP)  
-- Database Design  
-
----
-
-### 🔹 Mobile Development
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
-</p>
-
-- Cross-platform Mobile Applications  
-- UI/UX Implementation  
-
----
-
-### 🔹 Databases & Cloud
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
-</p>
-
----
-
-### 🔹 AI & Emerging Technologies
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-</p>
-
-- AI & Computer Vision  
-- Generative AI Tools  
-
----
-
-### 🔹 Tools & Best Practices
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-</p>
-
-- Clean Code Principles  
-- MVC / Modular Architecture  
-- Problem Solving & Debugging  
-- Competitive Programming  
-
----
-
-## 📚 Research & Publications
-
-- **IEEE Research Publication (2024)**  
-  **Title:** *Enhancing Government–Citizen Communication via Digital Technologies*  
-  **Publisher:** IEEE Xplore  
-  📄 https://ieeexplore.ieee.org/document/10867385  
-
----
-
-## 🏆 Achievements & Competitions
-
-- 🥈 **2nd Place – SightSavvy Project (2024)**  
-  Smart Assistant for the Visually Impaired (Flutter & AI)
-
-- 🧠 **OCPC Programming Competition (2025)**  
-  Competitive programming using Python  
-
-- 🌐 **Oman IoT & AI Challenge (2024)**  
-  Innovative IoT & AI solutions  
-
-- 🥉 **TechMarathon (2024)**  
-  Responsive website development  
-
----
-
-## 🌱 Currently Focused On
-- Full Stack application development  
-- Backend APIs with FastAPI  
-- Flutter mobile applications  
-- Job readiness as a Software Developer  
-
----
-
-## 📫 Let’s Connect
-- GitHub: https://github.com/muneerasaifalnaabi-prog  
-- Email: muneerasaifalnaabi@gmail.com  
-
----
-
-⭐️ Thanks for visiting my profile!
