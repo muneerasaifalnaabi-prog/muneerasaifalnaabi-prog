@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=muneerasaifalnaabi-prog&style=flat)
 
 ## 👋 Muneera Saif Al Naabi
-**Full Stack Developer | Software Applications Development Graduate**
+**Full Stack Developer | Software Applications Development**
 
 ---
 
