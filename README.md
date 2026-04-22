@@ -9,7 +9,7 @@
   I'm Muneera Al Naabi, Full Stack Developer | Vibe Coding Enthusiast  💻
 </h2>
 
-<p align="left">
+<p align="center">
   <img src="https://i.gifer.com/JXA0.gif" alt="Coder GIF" width="500">
 </p>
 
