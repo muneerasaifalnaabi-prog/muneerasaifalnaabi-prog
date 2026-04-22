@@ -69,7 +69,4 @@
 
 <h2 align="left">❤️ Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Muneera_Al_Naabi-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/muneera-al-naabi-Ob4aaa260)  
-[![GitHub Badge](https://img.shields.io/badge/-muneerasaifalnaabi--prog-black?style=flat-square&logo=github&logoColor=white)](https://github.com/muneerasaifalnaabi-prog)  
-[![Gmail Badge](https://img.shields.io/badge/-muneerasaifalnaabi@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muneerasaifalnaabi@gmail.com)  
-[![IEEE Badge](https://img.shields.io/badge/-IEEE_Publication-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10867385)
+[![Linkedin Badge](https://img.shields.io/badge/-Muneera_Al_Naabi-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/muneera-al-naabi-Ob4aaa260) [![GitHub Badge](https://img.shields.io/badge/-muneerasaifalnaabi--prog-black?style=flat-square&logo=github&logoColor=white)](https://github.com/muneerasaifalnaabi-prog) [![Gmail Badge](https://img.shields.io/badge/-muneerasaifalnaabi@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muneerasaifalnaabi@gmail.com) [![IEEE Badge](https://img.shields.io/badge/-IEEE_Publication-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10867385)
