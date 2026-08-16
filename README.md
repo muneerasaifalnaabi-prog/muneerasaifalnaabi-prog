@@ -54,19 +54,25 @@
   </a>
 </p>
 
+<!-- Additional Technical Skills -->
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,javascript,html,css,mysql,sqlite,firebase,git,github,docker,postman,idea,vscode,maven,python,dart,flutter,php,cs,fastapi&perline=8" alt="My Technical Skills" />
+</p>
+
 ---
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 💻 I'm a Full Stack Developer focused on Software Applications Development  
-- 📚 Researcher: Published in IEEE (2024) - *Enhancing Government–Citizen Communication*  
-- 🥈 Achievement: 2nd Place – **SightSavvy** (Flutter & AI)  
-- 🧠 Competitor: OCPC Programming Competition & Oman IoT & AI Challenge  
-- 🚀 Passionate about building digital technologies that bridge communication gaps  
-- ⚡ Fun fact: I love solving complex problems with clean, efficient code  
+* 💻 I'm a Full Stack Developer focused on Software Applications Development
+* 📚 Researcher: Published in IEEE (2024) - *Enhancing Government–Citizen Communication*
+* 🥈 Achievement: 2nd Place – **SightSavvy** (Flutter & AI)
+* 🧠 Competitor: OCPC Programming Competition & Oman IoT & AI Challenge
+* 🚀 Passionate about building digital technologies that bridge communication gaps
+* ⚡ Fun fact: I love solving complex problems with clean, efficient code
 
 ---
 
 <h2 align="left">❤️ Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Muneera_Al_Naabi-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/muneera-al-naabi-Ob4aaa260) [![GitHub Badge](https://img.shields.io/badge/-muneerasaifalnaabi--prog-black?style=flat-square&logo=github&logoColor=white)](https://github.com/muneerasaifalnaabi-prog) [![Gmail Badge](https://img.shields.io/badge/-muneerasaifalnaabi@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muneerasaifalnaabi@gmail.com) [![IEEE Badge](https://img.shields.io/badge/-IEEE_Publication-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10867385)
+[![Linkedin Badge](https://img.shields.io/badge/-Muneera_Al_Naabi-blue?style=flat-square\&logo=Linkedin\&logoColor=white)](https://linkedin.com/in/muneera-al-naabi-Ob4aaa260) [![GitHub Badge](https://img.shields.io/badge/-muneerasaifalnaabi--prog-black?style=flat-square\&logo=github\&logoColor=white)](https://github.com/muneerasaifalnaabi-prog) [![Gmail Badge](https://img.shields.io/badge/-muneerasaifalnaabi@gmail.com-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:muneerasaifalnaabi@gmail.com) [![IEEE Badge](https://img.shields.io/badge/-IEEE_Publication-00629B?style=flat-square\&logo=ieee\&logoColor=white)](https://ieeexplore.ieee.org/document/10867385)
