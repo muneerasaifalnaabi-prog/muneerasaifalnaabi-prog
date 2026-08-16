@@ -15,49 +15,28 @@
 
 <h2 align="left">🛠 Technologies and Tools I use:</h2>
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img style="align-item:center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  </a>&nbsp;
-  <a href="https://www.python.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  </a>&nbsp;
-  <a href="https://dart.dev">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40"/>
-  </a>&nbsp;
-  <a href="https://www.java.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  </a>&nbsp;
-  <a href="https://www.php.net">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-  </a>&nbsp;
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-  </a>&nbsp;
-  <a href="https://fastapi.tiangolo.com/">
-    <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" width="40"/>
-  </a>&nbsp;
-  <a href="https://flutter.dev">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/>
-  </a>&nbsp;
-  <a href="https://www.mysql.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  </a>&nbsp;
-  <a href="https://www.sqlite.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/>
-  </a>&nbsp;
-  <a href="https://firebase.google.com/">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-  </a>&nbsp;
-  <a href="https://git-scm.com/">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  </a>
-</p>
-
-<!-- Additional Technical Skills -->
+<!-- Main Technical Skills -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,javascript,html,css,mysql,sqlite,firebase,git,github,docker,postman,idea,vscode,maven,python,dart,flutter,php,cs,fastapi&perline=8" alt="My Technical Skills" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,javascript,html,css,python,dart,flutter,php,cs,fastapi&perline=7" alt="Programming and Development Skills" />
+</p>
+
+<!-- Databases, AI, DevOps and Tools -->
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,git,github,docker,postman,idea,vscode,maven,google&perline=7" alt="Databases, AI, DevOps and Development Tools" />
+</p>
+
+<p align="center">
+  <sub>
+    Java • Spring Boot • Angular • TypeScript • JavaScript • HTML • CSS • Python • Dart • Flutter • PHP • C# • FastAPI
+  </sub>
+</p>
+
+<p align="center">
+  <sub>
+    MySQL • SQLite • Firebase • Git • GitHub • Docker • Postman • IntelliJ IDEA • VS Code • Maven • Gemini AI
+  </sub>
 </p>
 
 ---
